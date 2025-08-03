@@ -1,9 +1,22 @@
-# Differential Expression Analysis
+# 🧬 Differential Expression Analysis: Breast Cancer RNA-seq (GSE183947)
 
-This project explores the expression levels of key breast cancer–related genes using publicly available RNA-seq data from the Gene Expression Omnibus (GEO). 
-It extends the “Gene Expression” tutorials by Bioinformagician with additional visualisations and statistical tests. 
-The analysis employs Rstudio for:
-    Loading and preprocessing FPKM expression data (GSE183947),
-    Retrieving sample metadata from GEO, 
-    Visualising gene expression patterns (barplots, boxplots, heatmaps, scatterplots, density plots),
-    Performing statistical comparison (e.g., Wilcoxon rank-sum test) to evaluate expression differences by metastasis status.
+This project investigates the expression levels of key breast cancer–related genes using publicly available RNA-seq data from the **Gene Expression Omnibus (GEO)**.
+
+It builds on Bioinformagician’s *Gene Expression* tutorials and includes enhanced visualisations and statistical comparisons.
+
+## 📋 Summary
+
+The analysis is performed in **RStudio** and covers:
+
+- 🔹 Loading and preprocessing **FPKM expression data** from [GSE183947](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE183947)
+- 🔹 Retrieving sample metadata from **GEO**
+- 🔹 Visualising gene expression using:
+  - Barplots
+  - Boxplots
+  - Heatmaps
+  - Scatterplots
+  - Density plots
+- 🔹 Performing statistical tests to compare gene expression by **metastasis status**, including:
+  - *Wilcoxon rank-sum test*
+
+---
