@@ -2,7 +2,7 @@
 
 This project investigates the expression levels of key breast cancer–related genes using publicly available RNA-seq data from the **Gene Expression Omnibus (GEO)**.
 
-It builds on Bioinformagician’s *Gene Expression* tutorials and includes enhanced visualisations and statistical comparisons.
+It builds on Bioinformagician’s *Gene Expression* tutorials with further visualisations and statistical tests.
 
 ## 📋 Summary
 
